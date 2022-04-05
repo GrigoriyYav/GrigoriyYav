@@ -52,7 +52,7 @@ JavaScript Landing with sliders, map and other stuff
 
 Landing page of the Louvre - one of the most popular art museums in the world.
 
-Link: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md.
+Link: https://rolling-scopes-school.github.io/grigoriyyav-JSFE2021Q3/museum-dom/
 
 Repo: (temporarily unavailable)
 
