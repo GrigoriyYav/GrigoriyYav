@@ -62,7 +62,7 @@ Repo: (temporarily unavailable)
 <br/>
 <br/>
 
-My first htmll/css project 🙈
+My first html/css project 🙈
 <img img align="left" src="https://user-images.githubusercontent.com/86509140/161730113-0b5a414c-e63c-4bd8-a019-4530310dc44b.png" width="480" height="280" />
 
 Front of Video service with two tabs and a login form.
