@@ -13,16 +13,17 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-234ea94b?style=flat-square&logo=MongoDB&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ### Projects:
-[**IN PROGRESS**] Angular project 
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161731368-ebee688b-eb91-4885-bcfb-d96e6300ba1c.png" width="480" height="280" />
+[**IN PROGRESS**]  **Team** Angular project 
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/166207343-728c34e5-557a-4c60-b45a-9f3ff2b9fed2.png" width="480" height="280" />
 
-The main goal is to implement the main page of the YouTube client app.
+A project management system is an application that helps an individual in an initiative group or group complete assigned tasks.
 
-Link: [**IN PROGRESS**] https://hilarious-wisp-bcab7b.netlify.app/
+Link: (temporarily unavailable)
 
 Repo: (temporarily unavailable)
 <br/>
