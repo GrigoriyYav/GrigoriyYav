@@ -35,7 +35,7 @@ Repo: (temporarily unavailable)
 <br/>
 
 **Team** TypeScript project 
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161725024-57f9e24b-232e-46b9-a01e-4d5ba14e24df.png" width="480" height="280" />
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/161725024-57f9e24b-232e-46b9-a01e-4d5ba14e24df.png" width="500" height="280" />
 
 RS Lang is an application for learning foreign words, including an electronic textbook with a database of words to learn, mini-games for repeating them, a statistics page for tracking individual progress.
 
@@ -49,7 +49,7 @@ Repo: https://github.com/GrigoriyYav/rslang
 <br/>
 
 JavaScript Landing with sliders, map and other stuff
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161727783-417a2c24-d80e-42ba-8326-730b12bdaa7a.png" width="480" height="280" />
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/161727783-417a2c24-d80e-42ba-8326-730b12bdaa7a.png" width="500" height="280" />
 
 Landing page of the Louvre - one of the most popular art museums in the world.
 
@@ -64,7 +64,7 @@ Repo: (temporarily unavailable)
 <br/>
 
 My first html/css project 🙈
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161730113-0b5a414c-e63c-4bd8-a019-4530310dc44b.png" width="480" height="280" />
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/161730113-0b5a414c-e63c-4bd8-a019-4530310dc44b.png" width="500" height="280" />
 
 Front of Video service with two tabs and a login form.
 
