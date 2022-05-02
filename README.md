@@ -19,7 +19,7 @@
 
 ### Projects:
 [**IN PROGRESS**]  **Team** Angular project 
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/166207343-728c34e5-557a-4c60-b45a-9f3ff2b9fed2.png" width="480" height="280" />
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/166207343-728c34e5-557a-4c60-b45a-9f3ff2b9fed2.png" width="500" height="280" />
 
 A project management system is an application that helps an individual in an initiative group or group complete assigned tasks.
 
