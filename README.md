@@ -48,6 +48,20 @@ Repo: https://github.com/GrigoriyYav/rslang
 <br/>
 <br/>
 
+
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/168467185-639c2917-629d-4476-9630-90c06bd274b6.png" width="500" height="280" />
+Momentum is an analogue of the Chrome Web Store application of the same name.
+<br/><br/>
+The app shows the time and username. The background image and greeting changes depending on the time of day. There is a clock, an image slider, weather widgets, an audio player, a quote of the day block, and settings.
+
+Link: https://rolling-scopes-school.github.io/grigoriyyav-JSFE2021Q3/momentum/
+
+Repo: (temporarily unavailable)
+
+<br/>
+<br/>
+<br/>
+
 JavaScript Landing with sliders, map and other stuff
 <img img align="left" src="https://user-images.githubusercontent.com/86509140/161727783-417a2c24-d80e-42ba-8326-730b12bdaa7a.png" width="500" height="280" />
 
