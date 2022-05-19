@@ -23,9 +23,9 @@
 
 A project management system is an application that helps an individual in an initiative group or group complete assigned tasks.
 
-Link: (temporarily unavailable)
+Link: https://sashatsarikova.github.io/project-management-app/welcome
 
-Repo: (temporarily unavailable)
+Repo: https://github.com/SashaTsarikova/project-management-app
 <br/>
 <br/>
 <br/>
