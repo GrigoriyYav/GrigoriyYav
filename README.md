@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Grogirii Iavorskii, a beginner Frontend Developer
+## I'm Grigorii Iavorskii, a beginner Frontend Developer
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -52,7 +52,8 @@ Repo: https://github.com/GrigoriyYav/rslang
 
 <img img align="left" src="https://user-images.githubusercontent.com/86509140/168467185-639c2917-629d-4476-9630-90c06bd274b6.png" width="500" height="280" />
 Momentum is an analogue of the Chrome Web Store application of the same name.
-<br/><br/>
+<br/>
+<br/>
 The app shows the time and username. The background image and greeting changes depending on the time of day. There is a clock, an image slider, weather widgets, an audio player, a quote of the day block, and settings.
 
 Link: https://rolling-scopes-school.github.io/grigoriyyav-JSFE2021Q3/momentum/
