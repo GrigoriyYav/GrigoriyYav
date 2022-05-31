@@ -36,7 +36,7 @@ Repo: https://github.com/SashaTsarikova/project-management-app
 <br/>
 
 **Team** TypeScript project 
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161725024-57f9e24b-232e-46b9-a01e-4d5ba14e24df.png" width="500" height="280" />
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/171148386-d6b42e7b-a211-4772-b25d-91378b51a3e4.png" width="500" height="280" />
 
 RS Lang is an application for learning foreign words, including an electronic textbook with a database of words to learn, mini-games for repeating them, a statistics page for tracking individual progress.
 
