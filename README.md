@@ -19,16 +19,14 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0078d7?style=flat-square&logo=Docker&logoColor=white" />
 
 ### Projects:
-[**IN PROGRESS**]  **Team** Angular project 
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/166207343-728c34e5-557a-4c60-b45a-9f3ff2b9fed2.png" width="500" height="280" />
+[**IN PROGRESS**]  **Team** Angular project - Trello clone
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/171991138-205befb6-6472-4eca-af30-dfa02c388fdb.png" width="500" height="280" />
 
 A project management system is an application that helps an individual in an initiative group or group complete assigned tasks.
 
 Link: https://sashatsarikova.github.io/project-management-app/welcome
 
 Repo: https://github.com/SashaTsarikova/project-management-app
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
