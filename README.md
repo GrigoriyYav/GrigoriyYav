@@ -15,6 +15,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-234ea94b?style=flat-square&logo=MongoDB&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0078d7?style=flat-square&logo=Docker&logoColor=white" />
 
