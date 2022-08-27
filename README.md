@@ -20,7 +20,20 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0078d7?style=flat-square&logo=Docker&logoColor=white" />
 
 ### Projects:
-[**IN PROGRESS**]  **Team** Angular project - Trello clone
+ **Team** Angular project - WeatherToday
+<img img align="left" src="https://user-images.githubusercontent.com/86509140/187020832-1f263926-91f7-4676-9e05-57bba58519a5.png" width="500" height="240" />
+
+User location recognition; Detailed weather forecast for 16 days; Forecast presented in graphs; Weather map with layers; Language selection; Location change; Progressive web application
+
+Link: https://weather-today-ten.vercel.app/today
+
+Repo: https://github.com/sunn-shinne/weather-today
+<br/>
+<br/>
+<br/>
+
+
+ **Team** Angular project - Trello clone
 <img img align="left" src="https://user-images.githubusercontent.com/86509140/171991138-205befb6-6472-4eca-af30-dfa02c388fdb.png" width="500" height="280" />
 
 A project management system is an application that helps an individual in an initiative group or group complete assigned tasks.
@@ -71,22 +84,6 @@ Landing page of the Louvre - one of the most popular art museums in the world.
 Link: https://rolling-scopes-school.github.io/grigoriyyav-JSFE2021Q3/museum-dom/
 
 Repo: (temporarily unavailable)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-My first html/css project 🙈
-<img img align="left" src="https://user-images.githubusercontent.com/86509140/161730113-0b5a414c-e63c-4bd8-a019-4530310dc44b.png" width="500" height="280" />
-
-Front of Video service with two tabs and a login form.
-
-Link: https://grigoriyyav.github.io/
-
-Repo: https://github.com/GrigoriyYav/GrigoriyYav.github.io
-
 
 <!--
 **GrigoriyYav/GrigoriyYav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
