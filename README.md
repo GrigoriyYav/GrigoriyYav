@@ -1,10 +1,11 @@
-## Hi there 👋
-## I'm Grigorii Iavorskii, a Frontend Developer
+## Hello There 👋
+## I'm Grigorii Yavorskii, a Frontend Developer
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+<!--
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/scss-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-hotpink.svg?style=for-the-badge&logo=LESS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -18,7 +19,8 @@
 <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-234ea94b?style=flat-square&logo=MongoDB&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-0078d7?style=flat-square&logo=Docker&logoColor=white" />
-
+-->
+<!--
 ### Projects:
  **Team** Angular project - WeatherToday
 <img img align="left" src="https://user-images.githubusercontent.com/86509140/187020832-1f263926-91f7-4676-9e05-57bba58519a5.png" width="500" height="240" />
@@ -84,7 +86,7 @@ Landing page of the Louvre - one of the most popular art museums in the world.
 Link: https://rolling-scopes-school.github.io/grigoriyyav-JSFE2021Q3/museum-dom/
 
 Repo: (temporarily unavailable)
-
+-->
 <!--
 **GrigoriyYav/GrigoriyYav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
